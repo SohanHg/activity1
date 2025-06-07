@@ -120,7 +120,7 @@ const Portfolio = () => {
           </div>
           <div className="hero-image">
             <div className="profile-container">
-              <img src="/profile-placeholder.jpg" alt="Sohan H G" className="profile-image" />
+              <img src="/profile.jpg" alt="Sohan H G" className="profile-image" />
             </div>
           </div>
         </div>
